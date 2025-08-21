@@ -83,4 +83,3 @@ Survival was **not random**: it reflects structural **inequalities** of **gender
 - Philippe Roumbo — M1 BIDABI  
 - (Project team) Rayan Idoudi, Elmesbahi Mehdi, Ange-Paul Emmanuel The  
 Université Sorbonne Paris Nord — 2024/2025
-"""
